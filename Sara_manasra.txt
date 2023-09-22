@@ -2,6 +2,6 @@ Sara manasra 201115
 git clone https://github.com/sajaalmuraqtn/assignment1.git
 git init
 git add .
-git commit -m "Added my commands"
+git commit -m "Added my commands in assigment 1"
 git pull
 git push
