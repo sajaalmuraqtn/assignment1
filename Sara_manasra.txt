@@ -1,0 +1,7 @@
+Sara manasra 201115
+git clone https://github.com/sajaalmuraqtn/assignment1.git
+git init
+git add .
+git commit -m "Added my commands"
+git pull
+git push
